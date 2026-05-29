@@ -1,0 +1,6 @@
+{
+  "name": "TheNetFace",
+  "description": "An elite hybrid social environment for designers and architects, featuring high-fidelity architectural sharing, real-time transmissions, and collaborative blueprints.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["social-networking", "real-time-feed", "media-sharing"]
+}
